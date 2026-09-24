@@ -1,6 +1,6 @@
-#LyricSide Privacy Policy
+# YouLyrics Privacy Policy
 
-Last updated: 24 September 2026
+Last updated: 22 September 2026
 
 YouLyrics does not collect, sell, share, or transmit personal information to the developer. It contains no analytics, advertising SDK, account system, or tracking code.
 
